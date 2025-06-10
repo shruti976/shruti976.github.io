@@ -25,4 +25,12 @@ Welcome! I'm a Ph.D. student in Computer Science at the **University of Dayton**
 
 ---
 
+## Cite My Work
+<div style="margin-top: 1em;">
+  <a href="/files/publications.bib" download style="text-decoration: none; background: #4CAF50; color: white; padding: 8px 14px; border-radius: 5px;">
+    📄 Download All BibTeX Citations
+  </a>
+</div>
+
+
 Thanks for visiting. Feel free to [get in touch](mailto:shruti.singh97.phd@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/shruti-singh97/).
