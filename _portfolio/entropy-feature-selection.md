@@ -3,8 +3,12 @@ title: "Entropy-Based Feature Selection in RL"
 date: 2025-06-10
 categories: [Reinforcement Learning]
 ---
+excerpt: >
+A robust RL model that selects features using entropy-based metrics, improving policy stability in noisy environments.
 
-**Summary**: Built a novel RL noise-robust model achieving 95% accuracy in Bipedal Walker and 94% in Lunar Lander using entropy-driven feature selection.
+**Summary**: Developed a custom reinforcement learning pipeline for BipedalWalker and LunarLander.
+Achieved 95%+ accuracy with entropy-driven sensor filtering to suppress noisy features in real time.
+Demonstrated shielded policy learning under synthetic Gaussian noise.
 
 **GitHub**: [link](#)  
 **Highlights**:
