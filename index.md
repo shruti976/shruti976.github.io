@@ -3,7 +3,9 @@ layout: home
 title: "Shruti Singh – PhD Portfolio"
 ---
 
-Welcome! I'm a Ph.D. student in Computer Science at the **University of Dayton**, working on Safe Reinforcement Learning, Human–AI Interaction, and Large Language Models for real-world deployment in safety-critical systems.
+Welcome! I'm a third year Ph.D. student in Computer Science at the **University of Dayton**, where I design safe, adaptive, and interpretable AI systems for the real world.  
+My research spans **Safe Reinforcement Learning**, **Human–AI Interaction**, and **Large Language Models (LLMs)** — with a focus on safety-critical applications and decision support.
+
 
 ---
 
