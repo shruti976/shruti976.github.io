@@ -1,6 +1,5 @@
 ---
 title: "Entropy-Based Feature Selection in RL"
-date: 2025-06-10
 categories: [Reinforcement Learning]
 ---
 excerpt: >

@@ -1,6 +1,5 @@
 ---
 title: "Facial Recognition Attendance System"
-date: 2025-06-10
 categories: [Computer Vision]
 ---
 excerpt: >

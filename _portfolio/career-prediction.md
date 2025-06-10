@@ -1,6 +1,5 @@
 ---
 title: "Multi-Output Career Prediction"
-date: 2025-06-10
 categories: [Machine Learning]
 ---
 
